@@ -8,10 +8,12 @@ body{
 .photo{
     border: 1px solid rgb(46, 211, 183);
     border-radius: 30px;
+    box-shadow: 1px 1px 4px rgb(46, 211, 183);
 }
 
 #title, .subtitle, .post_title{
     color: rgb(24, 185, 158);
+   
 }
 
 #title{
@@ -51,7 +53,7 @@ a{
 .post_image{
     margin-bottom: 15px;
     width: 50%;
-
+  box-shadow: 1px 1px 4px black
 }
 
 .contacts_list{
